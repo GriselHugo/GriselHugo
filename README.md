@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Hugo, a Epitech Student in Nice 👋
 
-<!--
-**GriselHugo/GriselHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ In my third year.
+- 🌱 I’m currently learning Web languages.
+- ✨ You can find here most of my projects.
+- ❔ Ask me about anything [here](https://github.com/GriselHugo/GriselHugo/issues)
 
-Here are some ideas to get you started:
+**Languages and Tools:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,node,express,react" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,mysql,mongo,vscode,linux" />
+</a>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+  <div align=center>
+    <a href="https://github.com/GriselHugo/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahCherel&title_color=ff652f&text_color=ffffff&icon_color=ff652f&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=codeSTACKr&border_color=ff652f&hide=css" />
+  </div>
+</p>
