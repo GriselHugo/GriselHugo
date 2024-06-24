@@ -12,7 +12,7 @@
 </a>
 <br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,mongo,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,mongo,vscode,linux,php" />
 </a>
 
 <h2 align="center">⚡ Stats ⚡</h2>
