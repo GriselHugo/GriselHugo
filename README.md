@@ -1,6 +1,6 @@
 ### Hi there, I'm Hugo, a Epitech Student in Nice 👋
 
-- ⚡ In my third year.
+- ⚡ In my fourth year.
 - 🌱 I’m currently learning Web languages.
 - ✨ You can find here most of my projects.
 - ❔ Ask me about anything [here](https://github.com/GriselHugo/GriselHugo/issues)
