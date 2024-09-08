@@ -8,11 +8,11 @@
 **Languages and Tools:**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,nodejs,express,react,go,haskell" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,nodejs,express,react,go,haskell,php" />
 </a>
 <br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,mongo,vscode,linux,php" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,mongo,vscode,linux" />
 </a>
 
 <h2 align="center">⚡ Stats ⚡</h2>
