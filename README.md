@@ -1,4 +1,4 @@
-### Hi there, I'm Hugo, a Epitech Student in Nice 👋
+### Hi there, I'm Hugo, a Epitech Student in Nice (currently in Barcelona for the year abroad) 👋
 
 - ⚡ In my fourth year.
 - 🌱 I’m currently learning Web languages.
