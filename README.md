@@ -1,6 +1,6 @@
-### Hi there, I'm Hugo, a Epitech Student in Nice (currently in Barcelona for the year abroad) 👋
+### Hi there, I'm Hugo, a Epitech Student in Nice 👋
 
-- ⚡ In my fourth year.
+- ⚡ In my fifth year.
 - 🌱 I’m currently learning Web languages.
 - ✨ You can find here most of my projects.
 - ❔ Ask me about anything [here](https://github.com/GriselHugo/GriselHugo/issues)
